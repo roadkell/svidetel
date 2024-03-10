@@ -1,13 +1,13 @@
 ## witnessd: file/directory event watcher for systemd ##
 ```
-     ◟◟◟
-    ⎛ಠ ಠ⎞
-   _⎝ ˜ ⎠_
+     ,,,
+    (ಠ ಠ)
+   _( ^ )_
   /  \/   \
  //      \ \
 (/       / /
  \______(_/
-   ▐█▌█🭫║
+   ▐█▌█^║
    ▐█▌██║
    ▐█▌██║
    ▐█▌██║
@@ -42,4 +42,4 @@ This project doesn't have dependencies beside systemd (and bash for the script).
 
 ### License ###
 
-[Hippocratic License 3.0](https://github.com/roadkell/witnessd/blob/main/LICENSE.md)
+[Hippocratic License 3.0 (HL3-CORE)](https://github.com/roadkell/witnessd/blob/main/LICENSE.md)
